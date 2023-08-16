@@ -1,0 +1,52 @@
+/* HEADER  */
+header {
+    background-color: #2A9D8F;
+    width: 1440px;
+    padding: 38px 130px;
+    margin: auto;
+}
+
+.springtree {
+    background-color: white;
+    padding: 10px 13px 10.49px;
+    border-radius: 46px;
+    vertical-align: middle;
+}
+
+.navbar {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 357px;
+}
+
+.topnav {
+    display: inline-block;
+}
+
+
+
+a {
+    color: #FFF;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
+.post {
+    margin-left: 51px;
+    margin-right: 51px;
+}
+
+
+button {
+    padding: 8px 16px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #2A9D8F;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 346.7px;
+}
