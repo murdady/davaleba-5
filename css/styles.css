@@ -140,3 +140,44 @@ a {
     font-weight: 400;
     margin-top: 56px;
 }
+
+/* SECTION2 */
+
+.section2 {
+    width: 1180px;
+    margin: 200px auto;
+}
+
+.berita {
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 54px;
+    margin-left: 365px;
+}
+
+.leftpic {
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.rightpic {
+    display: inline-block;
+}
+
+.forrest {
+    color: #535353;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 32px;
+}
+
+.mountains {
+    color: #535353;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 32px;
+}
