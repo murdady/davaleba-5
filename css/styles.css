@@ -25,7 +25,7 @@ header {
 
 
 
-a {
+.headernavbutton {
     color: #FFF;
     font-family: 'Nerko One', cursive;
     font-size: 20px;
@@ -180,4 +180,80 @@ a {
     font-size: 24px;
     font-weight: 400;
     margin-top: 32px;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #2A9D8F;
+    width: 1440px;
+    margin: auto;
+    padding: 90px 130px 148px;
+}
+
+
+
+/* aq divi shevqmeni border gavakete da tetri png chavsvi
+ svgs shemtxvevashi calke wre unda gadmomewera da ucnaurad iko*/
+.footertreelogo {
+    width: 42.641px;
+    height: 54.379px;
+    margin-left: 5px;
+    margin-bottom: 21px;
+}
+
+.border {
+    width: 98px;
+    height: 98px;
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid white;
+    border-radius: 50px;
+}
+
+.footernav {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 589px;
+}
+
+.row1 {
+    display: inline-block;
+    vertical-align: top;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.row2 {
+    display: inline-block;
+    vertical-align: top;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 42px;
+    margin-left: 42px;
+}
+
+.row3 {
+    display: inline-block;
+    vertical-align: top;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.title {
+    margin-bottom: 21px;
+}
+
+.footernavbutton {
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
 }
